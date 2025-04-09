@@ -12,7 +12,7 @@ I’m a **1337 Coding Student** with a background in political science on an exc
 - **Shell Scripting**: Automating tasks like a total pro! 🤖  
 - **Problem-Solving**: Breaking down challenges with logic and creativity.  
 
-You can check out some of my progress and projects [here](https://github.com/Maroua-netizen)!  
+You can check out some of my progress and projects [here](https://github.com/Maroua-netizen?tab=repositories)!  
 
 ---
 
