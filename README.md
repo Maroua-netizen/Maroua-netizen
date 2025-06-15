@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Maroua!  
 
+[![mmounsif's 42 stats](https://badge.mediaplus.ma/greenbinary/mmounsif)](https://github.com/oakoudad/badge42)
+
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="right" width="200px" />
 
 ### 👩‍💻 About Me  
