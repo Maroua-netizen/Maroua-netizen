@@ -36,9 +36,7 @@ You can check out some of my progress and projects [here](https://github.com/Mar
 ### 🌱 How You Can Connect With Me  
 Feel free to reach out if you want to collaborate on a project.
 
-📧 Email: [maroua.mounsif@gmail.com](maroua.mounsif@gmail.com)
-
-💬 Discord: marou_toon
+📧 Email: [maroua.mounsif@proton.me](maroua.mounsif@proton.me)
 
 🖇 Linkedin: [Maroua Mounsif](https://www.linkedin.com/in/maroua-mounsif/)
 
