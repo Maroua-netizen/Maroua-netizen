@@ -1,73 +1,40 @@
-# 👋 Hey there, I’m Maroua!
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Maroua's Animated Header">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%40+1337+(42+Network)+%F0%9F%9A%80;Ex-PolSci+turned+Systems+Builder+%E2%9A%99%EF%B8%8F;Crafting+Low-level+Code+%26+Applied+AI+%F0%9F%A4%96;Still+debugging...+but+now+building+real+systems.+%F0%9F%92%AA&font=Fira+Code&fontSize=35&color=FF1493&vCenter=true&multiline=false&width=800&height=70&duration=4000&pause=1000&center=true&background=00000000" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
 
 [![mmounsif's 42 stats](https://badge.mediaplus.ma/greenbinary/mmounsif)](https://github.com/oakoudad/badge42)
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="right" width="200px" />
+### 📊 At a Glance
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Maroua-netizen&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FF1493&icon_color=FF69B4" alt="Maroua's GitHub stats" />
+</a>
+</div>
 
 ---
 
-## 👩‍💻 About Me  
-I’m a **Computer Science student at 1337 (42 Network)** with a background in **Political Science & Global Studies**, now focused on **systems programming, applied AI, and building real-world solutions**.
+### 🌱 Let’s Connect & Build
 
-After years of analyzing complex social and governance systems, I chose to **build the tools instead of just studying the problems**. Today, I enjoy working at the intersection of **low-level programming, system design, and intelligent applications**.
+<a href="https://www.linkedin.com/in/maroua-mounsif/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF1493" alt="LinkedIn" />
+</a>
+<a href="mailto:maroua.mounsif@proton.me">
+  <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&color=FF69B4" alt="Email" />
+</a>
 
----
-
-## ⚙️ What I Work On Today  
-- **Systems Programming** — C, Unix/Linux, processes, concurrency  
-- **Algorithms & Problem Solving** — performance, constraints, edge cases  
-- **Applied AI** — predictive maintenance, ML models, LLMs (RAG)  
-- **Web & Backend** — Django REST APIs, React-based interfaces  
-
-I’m especially interested in **robust systems**, failure-aware design, and Industry 4.0 use cases.
-
----
-
-## 🚀 Highlight Project  
-### **AURA — Predictive Maintenance AI**
-- Co-developed during the **PHOS4CODE Hackathon 2025**
-- AI-powered platform to anticipate industrial equipment failures
-- ML-based risk prediction + LLM-powered explanations
-- Built with **Django REST, React, Python, and Docker**
-
-📌 More projects (including **Minishell**, **Philosophers**, and **Push_swap**) are available in my repositories 👇  
-👉 [Explore my projects](https://github.com/Maroua-netizen?tab=repositories)
-
----
-
-## 🌸 Fun Facts About Me  
-- I love turning **complex problems into structured systems** 🧩  
-- Coffee ☕, books 📖, and deep thinking sessions keep me going  
-- Big fan of learning by building (and debugging… a lot 😄)
-
----
-
-## 📊 GitHub at a Glance  
-**Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maroua-netizen&show_icons=true&theme=tokyonight)
-
-**Top Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maroua-netizen&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Let’s Connect  
-I’m always open to collaboration, learning, and meaningful conversations.
-
-📧 **Email:** maroua.mounsif@proton.me  
-🔗 **LinkedIn:** [linkedin.com/in/maroua-mounsif](https://www.linkedin.com/in/maroua-mounsif/)  
-
----
-
-### 🌟 Let’s Build & Grow Together  
-Every project, every bug, every late night is part of the journey.  
-**Still debugging — but now building real systems.** 💪
+<br/>
 
 ```c
-#include <stdio.h>
-
-int main(void)
-{
+// Current Status
+int main(void) {
     printf("Building systems, one line at a time ⚙️\n");
     return 0;
 }
