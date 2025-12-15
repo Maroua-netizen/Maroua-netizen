@@ -11,6 +11,8 @@
 
 [![mmounsif's 42 stats](https://badge.mediaplus.ma/greenbinary/mmounsif)](https://github.com/oakoudad/badge42)
 
+---
+
 ### 📊 At a Glance
 
 <div align="center">
@@ -31,10 +33,3 @@
 </a>
 
 <br/>
-
-```c
-// Current Status
-int main(void) {
-    printf("Building systems, one line at a time ⚙️\n");
-    return 0;
-}
