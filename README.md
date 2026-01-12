@@ -11,18 +11,6 @@
 
 [![mmounsif's 42 stats](https://badge.mediaplus.ma/greenbinary/mmounsif)](https://github.com/oakoudad/badge42)
 
----
-
-### 📊 At a Glance
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Maroua-netizen&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FF1493&icon_color=FF69B4" alt="Maroua's GitHub stats" />
-</a>
-</div>
-
----
-
 ### 🌱 Let’s Connect & Build
 
 <a href="https://www.linkedin.com/in/maroua-mounsif/">
